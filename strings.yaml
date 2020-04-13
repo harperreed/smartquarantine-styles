@@ -1,14 +1,23 @@
 branding:
-  name: About Library 
-  org: The New York Times
-  orgDomain: nytimes.com
-  prettyName: About Library
+  name: Smart Quarantine
+  org: Smart Quarantine
+  orgDomain: SmartQuarantine.org
+  prettyName: About Smart Quarantine
   favicon: /assets/images/library.ico
 
 landing:
   tagline: A simple documentation site, built from content in Google Docs.
   viewAll: View All Docs
   quickLink: <a href="/get-started">Get started</a>.
+  viewAll: View All Docs
+  quickLink: false
+  modules:
+    - tag: team
+      label: Topics
+      style: button
+    - tag: featured
+      label: Table of contents
+      style: docs
 
 footer:
   helpText: For help contributing or to report a problem, consult <a href="https://github.com/nytimes/library">the Github Page</a>.
