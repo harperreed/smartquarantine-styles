@@ -6,9 +6,9 @@ branding:
   favicon: /assets/images/library.ico
 
 landing:
-  tagline: A simple documentation site, built from content in Google Docs.
-  viewAll: View All Docs
-  quickLink: <a href="/get-started">Get started</a>.
+  tagline: |
+
+    <p>Good luck and wash your hands!</p>
   viewAll: View All Docs
   quickLink: false
   modules:
