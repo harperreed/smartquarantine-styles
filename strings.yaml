@@ -4,6 +4,7 @@ branding:
   orgDomain: SmartQuarantine.org
   prettyName: About Smart Quarantine
   favicon: /assets/images/library.ico
+  icon: https://harperreed.github.io/smartquarantine-styles/assets/isolation.svg
 
 landing:
   tagline: |
